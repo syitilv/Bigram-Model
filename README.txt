@@ -1,0 +1,1 @@
+In this assignment, I applied Bigram Language Model for 100 articles in Bahasa Indonesia with keyword “korupsi”. The model is evaluated by using perplexity from a sample test, then the result is analyzed.
